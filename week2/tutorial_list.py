@@ -20,3 +20,9 @@ print(fruits)
 del fruits[2]
 print(fruits)
 # ['apple', 'grape', 'durian']
+
+### 2D list
+row_frist_matrix = [
+    [ 13, 25, 7 ],
+    [ 91, 2, 44 ]
+] 
