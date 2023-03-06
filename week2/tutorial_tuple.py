@@ -19,5 +19,3 @@ print(fruits[1])
 # ### 刪除list第n個資料 
 # del fruits[2]
 # # ERROR : tuple內的物件也不可以刪除
-
-fruits.append('x')
